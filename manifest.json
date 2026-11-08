@@ -1,0 +1,9 @@
+{
+  "name": "Replay Viewer",
+  "author": "cwcinc",
+  "id": "replayviewer",
+  "description": "Allows loading of external replay codes to view in-game on tracks.",
+  "latest": {
+    "0.6.3": "1.0.0"
+  }
+}
